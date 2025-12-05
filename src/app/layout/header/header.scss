@@ -1,0 +1,13 @@
+.header{
+    height: 50px;
+    background-color: #36353a;
+    display: flex;
+    align-items: center;
+
+    &__title{
+        font-weight: 300;
+        color: #FFFFFF;
+        font-size: 16px;
+        margin-left: 20px;
+    }
+}
